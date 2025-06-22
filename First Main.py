@@ -17,6 +17,7 @@ def performMath():
 
 
     if equation == 'quit':
+        print("Goodbye lovely human")
         run = False
     else:
         equation = re.sub('[a-zA-z,.:() " "]', '', equation)
@@ -27,7 +28,6 @@ def performMath():
             previous = eval(str(previous) + equation)
 
 
-        print("You typed",previous)
-
+    
 while run:
     performMath()
