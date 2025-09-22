@@ -2,7 +2,7 @@
 
 Welcome to my Git Space!
 
-I'm a recent graduate on an exciting journey of self-discovery in the world of programming. Currently, I'm learning Python on my own and building fun projects along the way!
+I'm a recent graduate on an exciting journey of self-discovery in the world of programming. Currently, I'm learning Python on my own, unfortunately, I took a hiatus and picked up Web development and building fun projects along the way!
 
 ---
 
@@ -17,7 +17,8 @@ I'm a recent graduate on an exciting journey of self-discovery in the world of p
 
 ## 🌱 What I'm Working On
 
-- Improving my Python skills every day
+-Web development and building lovely projects!
+- Improving my Python skills every day- took a hiatus
 - Exploring new project ideas to build and learn from
 
 ---
